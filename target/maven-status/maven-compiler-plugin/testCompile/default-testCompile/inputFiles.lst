@@ -1,0 +1,4 @@
+/Users/marat.dinmukhametov/IdeaProjects/spring-boot-false-positives/src/test/java/example/falsepositives/fixed/BootContextCaseTest.java
+/Users/marat.dinmukhametov/IdeaProjects/spring-boot-false-positives/src/test/java/example/falsepositives/fixed/MockBeanCaseTest.java
+/Users/marat.dinmukhametov/IdeaProjects/spring-boot-false-positives/src/test/java/example/falsepositives/fixed/RandomPortInfrastructureCaseTest.java
+/Users/marat.dinmukhametov/IdeaProjects/spring-boot-false-positives/src/test/java/example/falsepositives/remaining/WebMvcInfrastructureCaseTest.java

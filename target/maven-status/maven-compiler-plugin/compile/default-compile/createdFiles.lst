@@ -1,0 +1,17 @@
+example/falsepositives/fixed/ConditionalCases.class
+example/falsepositives/fixed/ApplicationModelCases.class
+example/falsepositives/remaining/YamlConditionalConfiguration$1.class
+example/falsepositives/fixed/SampleProperties.class
+example/falsepositives/remaining/YamlEnabledService.class
+example/falsepositives/fixed/EnabledService.class
+example/falsepositives/fixed/ProfileConfiguration.class
+example/falsepositives/remaining/YamlConditionalCase.class
+example/falsepositives/fixed/ConditionalConfiguration.class
+example/falsepositives/fixed/ProfileCases.class
+example/falsepositives/fixed/ProfileMessage.class
+example/falsepositives/FalsePositivesApplication.class
+example/falsepositives/fixed/ImportingConfiguration.class
+example/falsepositives/fixed/ActuatorCases.class
+example/falsepositives/fixed/ConditionalConfiguration$1.class
+example/falsepositives/remaining/YamlConditionalConfiguration.class
+example/falsepositives/fixed/ImportedAutoConfigurationCases.class

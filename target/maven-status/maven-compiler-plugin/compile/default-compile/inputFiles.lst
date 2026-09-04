@@ -1,0 +1,12 @@
+/Users/marat.dinmukhametov/IdeaProjects/spring-boot-false-positives/src/main/java/example/falsepositives/FalsePositivesApplication.java
+/Users/marat.dinmukhametov/IdeaProjects/spring-boot-false-positives/src/main/java/example/falsepositives/fixed/ActuatorCases.java
+/Users/marat.dinmukhametov/IdeaProjects/spring-boot-false-positives/src/main/java/example/falsepositives/fixed/ApplicationModelCases.java
+/Users/marat.dinmukhametov/IdeaProjects/spring-boot-false-positives/src/main/java/example/falsepositives/fixed/ConditionalCases.java
+/Users/marat.dinmukhametov/IdeaProjects/spring-boot-false-positives/src/main/java/example/falsepositives/fixed/EnableSampleAutoConfiguration.java
+/Users/marat.dinmukhametov/IdeaProjects/spring-boot-false-positives/src/main/java/example/falsepositives/fixed/ImportedAutoConfigurationCases.java
+/Users/marat.dinmukhametov/IdeaProjects/spring-boot-false-positives/src/main/java/example/falsepositives/fixed/ProfileCases.java
+/Users/marat.dinmukhametov/IdeaProjects/spring-boot-false-positives/src/main/java/example/falsepositives/fixed/SampleProperties.java
+/Users/marat.dinmukhametov/IdeaProjects/spring-boot-false-positives/src/main/java/example/falsepositives/remaining/YamlConditionalCase.java
+/Users/marat.dinmukhametov/IdeaProjects/spring-boot-false-positives/src/main/java/sample/autoconfiguration/ImportedService.java
+/Users/marat.dinmukhametov/IdeaProjects/spring-boot-false-positives/src/main/java/sample/autoconfiguration/SampleAutoConfiguration.java
+/Users/marat.dinmukhametov/IdeaProjects/spring-boot-false-positives/src/main/java/sample/autoconfiguration/SampleAutoConfiguration1.java

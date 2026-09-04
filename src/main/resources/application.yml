@@ -1,0 +1,7 @@
+sample:
+  yaml:
+    enabled: true
+  first-candidate:
+    enabled: false
+  second-candidate:
+    enabled: false
